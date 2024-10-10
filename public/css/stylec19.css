@@ -1,0 +1,100 @@
+body{
+  height: 100px;
+  font-family: 'Poppins', sans-serif;
+  align-items: center;
+  justify-content: center;
+  background: #bad7df;
+}
+p{
+  font-size:20px;
+  text-align: left;
+  color:#16a596;
+  padding-left: 2%;
+  padding-right: 2%;
+
+}
+/* navbar */
+
+.navbar {
+  margin: 0 0 2rem;
+  background: #ea5455;
+}
+
+.navbar-brand {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* carousel */
+.carousel{
+  background-color: #93abd3;
+}
+.carousel-item{
+  padding:4% 10%;
+}
+.carousel-text{
+  text-align: center;
+  font-weight:bold;
+  color:white;
+
+}
+/* content */
+.content{
+  padding:10% 5% 15%;
+  color:#16697a;
+}
+
+.contenth{
+  color:#16697a;
+  padding:2% 4% 1% 2%;
+}
+
+/* link */
+.link{
+  padding:5%;
+  font-size:1.5rem;
+
+}
+.pointers{
+  font-size:20px;
+
+  color:#16a596;
+  padding-left: 2%;
+}
+
+/* footer */
+
+.footer{
+  background: #555555;
+  text-align: center;
+  padding: 5% 15% 3%;
+}
+
+.remo {
+  padding-bottom: 2%;
+  color: black;
+}
+
+.social-icon {
+  margin: 15px 10px 0;
+  font-size: 1.5rem;
+}
+
+.fab:hover {
+  color: #ff4c68;
+}
+.color{
+  color: black;
+}
+
+.p-footer{
+  font-size: 1.25rem;
+  color:black;
+  text-align:center;
+}
